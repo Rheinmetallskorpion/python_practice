@@ -1,0 +1,5 @@
+#Known issues:
+#1. Redundantcy
+#1.1 Redundant while loop.
+#1.2 Redundant random integer generation system.
+#1.3 Possibly redundant input matchmaking system.
