@@ -1,2 +1,2 @@
 # python_practice
-Programs written when practicing python
+All programs within this repository is written when practicing python coding.
