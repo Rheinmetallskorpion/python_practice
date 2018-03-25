@@ -1,0 +1,8 @@
+This program is developed by Frost Messerschmitt based on Python 3.6.4.
+It checks your skill in binary search as well as basic math.
+Good luck on playing~
+
+Known issues & possible improvements:
+1. Redundant while statement;
+2. Program terminates if some inputs are not number;
+2:39 PM 3/25/2018
